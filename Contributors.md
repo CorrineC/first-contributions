@@ -95,6 +95,7 @@
 - [Clinton Hilary D'silva](https://github.com/Clinton-dsilva-milearth)
 - Gourav J
 - Niklavs Katlaps
+- Corrine C
 - Jason E
 - John Daniel
 - Ananya Gupta
